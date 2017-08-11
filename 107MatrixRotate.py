@@ -3,6 +3,8 @@ Rotate matrix : in this case it's 4 x 4 : thinking about how you'd do any regula
 90 degree rotation (assuming clockwise) but not implementing here : method should be same - find
 distance to centre and reverse
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 '''
 import numpy
 
@@ -32,3 +34,5 @@ start_matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]]
 print_matrix(start_matrix)
 print("")
 print_matrix(rotate_matrix(start_matrix))
+print("Adding a line to update in git")
+
