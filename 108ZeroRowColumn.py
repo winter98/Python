@@ -40,3 +40,6 @@ dimy = len(test_matrix[0])
 print_matrix(test_matrix)
 print()
 print_matrix(zero_rows_columns(test_matrix,find_zeros(test_matrix)))
+
+print("Just for Git")
+
