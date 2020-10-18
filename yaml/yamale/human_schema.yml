@@ -1,0 +1,4 @@
+---
+human:
+    name: str()
+    age: num()
